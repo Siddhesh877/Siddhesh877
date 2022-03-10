@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Siddhesh877
 - 👀 I’m interested in learning new technologies and new programming languages.
 - 🌱 I’m currently learning C++ and datastructures and algorithms
-- 💞️ I’m looking to collaborate on Linux systems and other intresting projects which use C++.
+- 💞️ I’m looking to collaborate on various intresting projects which use C++.
 - 📫 How to reach me ...just drop me an email at siddheshparate877@gmail.com
 
 <!---
