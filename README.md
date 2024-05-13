@@ -4,7 +4,4 @@
 - 💞️ I’m looking to collaborate on various intresting projects which use Javascript.
 - 📫 How to reach me? Just drop me an email at siddheshparate877@gmail.com
 
-<!---
-Siddhesh877/Siddhesh877 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Siddhesh's github stats](https://github-readme-stats.vercel.app/api?username=Siddhesh877&show_icons=true&hide_border=true)
